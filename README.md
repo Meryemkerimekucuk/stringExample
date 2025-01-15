@@ -17,7 +17,7 @@ Kullanıcı, string üzerindeki değişikliklerin sonuçlarını konsolda gözle
 Kelimelere ayrılmış string, döngüyle sırayla ekrana yazdırılır.
 ## Yazar
 Herhangi bir sorunuz varsa, meryemkerimekucuk@gmail.com adresinden iletişime geçebilirsiniz.
-## Author
+
 Bu projeyi incelediğiniz için teşekkür ederim! Kod yazarken başarılar dilerim.
 
 
